@@ -3,7 +3,7 @@
   tasks:
     - name: Print Hello
       ansible.builtin.debug:
-        msg: hello
+        msg: Hello
     - name: Print Fruit
       debug:
         msg: Apple
