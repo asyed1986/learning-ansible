@@ -5,6 +5,4 @@
 
 # Just Got Update
 
-Test line
-
-Improving my skill set
+Learn New Topics in ansible
